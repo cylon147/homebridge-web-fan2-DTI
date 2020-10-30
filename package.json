@@ -1,0 +1,23 @@
+{
+  "name": "homebridge-web-fan2-dti",
+  "version": "0.1.0",
+  "description": "HTTP fan interface for Homebridge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cylon147/homebridge-web-fan2-DTI.git"
+  },
+  "keywords": [
+    "web",
+    "fan"
+  ],
+  "author": "Paks",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cylon147/homebridge-web-fan2-DTI/issues"
+  },
+  "homepage": "https://github.com/cylon147/homebridge-web-fan2-DTI#readme"
+}
